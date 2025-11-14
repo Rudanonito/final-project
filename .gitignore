@@ -1,34 +1,11 @@
-# Environment variables
-.env
+# API keys and config
 config.py
+.env
 
-# Data directories
+# Data folders
 data/
 results/
-__pycache__/
 
 # Python cache
+__pycache__/
 *.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-ENV/
-
-# IDE files
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Temporary files
-*.tmp
-*.temp
