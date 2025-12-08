@@ -1,0 +1,11 @@
+.env
+*.pyc
+__pycache__/
+.DS_Store
+data/
+*.ipynb_checkpoints
+*.egg-info/
+dist/
+build/
+*.csv
+final_merged_data.csv
